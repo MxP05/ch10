@@ -23,8 +23,8 @@ run program using jupyterlab
 clustering cryptocurrencies by their performance in different time periods using unsupervised learning.
 
 *Hvplot graphs line and scatter plot for comparison*
-![visualizes the cumulative return values of the ETF portfolio](https://github.com/MxP05/CH7/blob/main/voila/voila2.png?raw=true)
-![visaulizes an hvplot of the cumulative returns for PYPL](https://github.com/MxP05/CH7/blob/main/voila/voila.png?raw=true)
+![Composite plot to contrast the Elbow curves](https://github.com/MxP05/ch10/blob/main/Resources/images/1.png?raw=true)
+![Compoosite plot to contrast the clusters](https://github.com/MxP05/ch10/blob/main/Resources/images/2.png?raw=true)
 ---
 
 ## Contributors
